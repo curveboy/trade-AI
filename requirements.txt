@@ -5,5 +5,5 @@ yfinance
 scikit-learn
 matplotlib
 tensorflow
-TA-Lib
+ta-lib-bin
 scipy
