@@ -1,12 +1,10 @@
 name: trade-ai
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  # ここでTA-Libをバイナリとしてインストールします
   - python=3.10
   - ta-lib
-  - numpy<2.0.0
+  - numpy=1.26.4
   - pandas
   - yfinance
   - scikit-learn
