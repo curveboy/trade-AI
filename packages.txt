@@ -1,3 +1,0 @@
-libta-lib0
-build-essential
-python3-dev
