@@ -1,0 +1,9 @@
+streamlit
+numpy<2.0.0
+pandas
+yfinance
+scikit-learn
+matplotlib
+tensorflow-cpu
+ta-lib-bin
+scipy
