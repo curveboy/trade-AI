@@ -1,9 +1,9 @@
 streamlit
-numpy
+numpy<2.0.0
 pandas
 yfinance
 scikit-learn
 matplotlib
 tensorflow
-ta-lib-bin
+TA-Lib
 scipy
